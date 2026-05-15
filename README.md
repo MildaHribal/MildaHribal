@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Miloslav 👋</h1>
-<p align="center"><em>Full-Stack Developer · UI Craftsman · Plzeň, Czech Republic</em></p>
+<p align="center"><em>Full-Stack Developer · Plzeň, Czech Republic</em></p>
 
 ---
 
-🛠️ I build production web platforms used by hundreds of thousands of users. Specialized in the **JavaScript** and **Kotlin** ecosystems — Next.js / Nuxt frontends, Kotlin / Node backends, and Dockerized infrastructure tying it all together.
+🛠️ I work across the stack on production web platforms — Next.js / Nuxt frontends, Kotlin / Node backends, and the Dockerized infrastructure that ties it all together. 4+ years of experience contributing to projects with real users.
 
-🌱 Currently working as a freelance developer while maintaining personal projects:
+🌱 Currently freelancing while building personal projects on the side.
+
+**Recent professional work:**
 - **[SkinsMC](https://skinsmc.org)** — Minecraft skin gallery serving millions of users
-- **[Minecraft IP List](https://www.minecraftiplist.com)** — Server directory with international daily traffic  
+- **[Minecraft IP List](https://www.minecraftiplist.com)** — Server directory with international daily traffic
+
+**Personal projects:**
 - **[BudBuddy](https://budbuddy.hribal.site)** — Cross-platform plant journaling app
 - **[Questie](https://questieapp.com)** — Gamified task manager
 
@@ -23,5 +27,3 @@
 ### Find me
 
 🌐 [hribal.site](https://hribal.site) · 💼 [LinkedIn](https://linkedin.com/in/miloslav-hribal) · 📧 milostav@hribal.site
-
-<p align="center"><em>"The best software isn't just written — it's carefully crafted through continuous learning."</em></p>
