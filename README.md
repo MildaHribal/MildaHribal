@@ -14,6 +14,8 @@
 **Personal projects:**
 - **[BudBuddy](https://budbuddy.hribal.site)** — Cross-platform plant journaling app
 - **[Questie](https://questieapp.com)** — Gamified task manager
+- **[Montana Cans CZ concept](https://montana.hribal.site)** — E-shop redesign concept in Next.js 15 ([code](https://github.com/MildaHribal/montana-cans-cz))
+- **[Portfolio](https://hribal.site)** — this site's source is [on GitHub](https://github.com/MildaHribal/portfolio)
 
 📍 Open to junior / medior developer roles — onsite in Plzeň or remote.
 
@@ -26,4 +28,4 @@
 
 ### Find me
 
-🌐 [hribal.site](https://hribal.site) · 💼 [LinkedIn](https://linkedin.com/in/miloslav-hribal) · 📧 milostav@hribal.site
+🌐 [hribal.site](https://hribal.site) · 💼 [LinkedIn](https://linkedin.com/in/miloslav-hribal) · 📧 [miloslav@hribal.site](mailto:miloslav@hribal.site)
